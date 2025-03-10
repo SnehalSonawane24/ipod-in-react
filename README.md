@@ -1,3 +1,24 @@
+## I-Pod in React
+
+![Screenshot 2025-03-10 100201](https://github.com/user-attachments/assets/e9f3d82e-b660-4036-a9d2-b554c91c6f22)
+
+![Screenshot 2025-03-10 095206](https://github.com/user-attachments/assets/8156b80d-ec15-4475-bbd8-0874ce18f4ba)
+
+![Screenshot 2025-03-10 095236](https://github.com/user-attachments/assets/c0186cde-79a8-43fb-b085-24053ddaa9b0)
+
+![Screenshot 2025-03-10 095340](https://github.com/user-attachments/assets/38501751-5f8b-47d0-b766-5fe9cbc2bd95)
+
+![Screenshot 2025-03-10 095359](https://github.com/user-attachments/assets/5ca4b6cd-46e1-4675-bb46-9312ce89dead)
+
+![Screenshot 2025-03-10 095259](https://github.com/user-attachments/assets/228dffc0-0c34-41a5-9261-0193922ef17e)
+
+![Screenshot 2025-03-10 095508](https://github.com/user-attachments/assets/a973babb-2d90-4020-baf1-c09e2009e3f9)
+
+![Screenshot 2025-03-10 095444](https://github.com/user-attachments/assets/a93afb37-aa88-42eb-be3e-929032717a23)
+
+![Screenshot 2025-03-10 095259](https://github.com/user-attachments/assets/07f57efd-dc8c-4be2-9faa-5f095cb8275b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
